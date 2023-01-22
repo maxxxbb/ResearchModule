@@ -32,7 +32,7 @@ For this project we worked in .ipynb files, thus all regression outputs can be e
 
 - **FirstRegression** : Main notebook. Contains functions to read in and clean data. Contains Results for all Robustness Checks
 - Absenteism.ipynb : Analysis for outcome job-effort proxied by absent days from work
-- Addpeople.ipynb : Creates .csv with 2006 controls
+- Addpeople.ipynb : Creates .csv with 2006 controls - **to be run before main notebook**
 - AddpeopleERI.ipnyb : Creates .csv with 2006 controls and calculates Effort-Reward-Ration for each individual (Robustness Check)
 - Addpeoplepositive : Creates .csv with 2006 controls and measures for positive reciprocity preferences
 - changes_of_reciprocity_measure : Check whether reciprocity preferences are stable over the survey years
