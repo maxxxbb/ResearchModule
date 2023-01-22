@@ -34,9 +34,9 @@ For this project we worked in .ipynb files, thus all regression outputs can be e
 - Absenteism.ipynb : Analysis for outcome job-effort proxied by absent days from work
 - Addpeople.ipynb : Creates .csv with 2006 controls - **to be run before main notebook**
 - AddpeopleERI.ipnyb : Creates .csv with 2006 controls and calculates Effort-Reward-Ration for each individual (Robustness Check)
-- Addpeoplepositive : Creates .csv with 2006 controls and measures for positive reciprocity preferences
-- changes_of_reciprocity_measure : Check whether reciprocity preferences are stable over the survey years
-- Effort-Reward-Imbalance : Analysis with ERR-Ratio (Robustness Check)
+- Addpeoplepositive.ipynb : Creates .csv with 2006 controls and measures for positive reciprocity preferences
+- changes_of_reciprocity_measure.ipynb : Check whether reciprocity preferences are stable over the survey years
+- Effort-Reward-Imbalance.ipynb : Analysis with ERR-Ratio (Robustness Check)
 - job_satisfaction.ipnyb: Analysis for outcome job satisfaction
 - Positive_reciprocity.ipynb : Analysis with measures for positive reciprocity and recoded treatment
 - regression_effort.ipynb : Analysis for outcome job-effort proxied by overtime work
