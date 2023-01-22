@@ -10,7 +10,7 @@
 
 ### About
 
-In this study, we examine the relationship between negative reciprocity preferences, unfair treatment and turnover intentions using large-scale survey data from the German Socio-Economic Panel Study (SOEP). We apply a linear probability model to analyze the data and find that higher measures of negative reciprocity and missing recognition at the workplace are linked to higher turnover intentions. However, we do not find any conclusive evidence in the data that the effect of unfair treatment on turnover intentions is stronger for individuals with higher levels of negative reciprocity. The results are robust to different robustness checks. We discuss possible explanations, such as measurement errors in the reciprocity variable or unobserved factors related to both the predictor and the outcome variable. 
+In this study, we examine the relationship between negative reciprocity preferences, unfair treatment and turnover intentions using large-scale survey data from the German Socio-Economic Panel Study (SOEP). We apply a linear probability model to analyze the data and find that higher measures of negative reciprocity and missing recognition at the workplace are linked to higher turnover intentions. However, we do not find any conclusive evidence in the data that the effect of unfair treatment on turnover intentions is stronger for individuals with higher levels of negative reciprocity. The results are robust to different robustness checks. We discuss possible explanations, such as measurement errors in the reciprocity variable or unobserved factors related to both the predictor and the outcome variable.
 
 This repository contains scripts for all data cleaning and analysis to replicate the results of the paper:
 
@@ -40,3 +40,4 @@ For this project we worked in .ipynb files, thus all regression outputs can be e
 - job_satisfaction.ipnyb: Analysis for outcome job satisfaction
 - Positive_reciprocity.ipynb : Analysis with measures for positive reciprocity and recoded treatment
 - regression_effort.ipynb : Analysis for outcome job-effort proxied by overtime work
+- papernotfinal.pdf : not so final paper
