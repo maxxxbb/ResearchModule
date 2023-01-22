@@ -30,7 +30,7 @@ All necessary python dependencies are contained in environment.yml . To install 
 
 For this project we worked in .ipynb files, thus all regression outputs can be examined without running the code on your local machine on Github. All scripts are inside the `src/data_management` folder.
 
-- **FirstRegression** : Main notebook. Contains functions to read in and clean data. Contains Results for all Robustness Checks
+- **FirstRegression.ipynb** : Main notebook. Contains functions to read in and clean data. Contains Results for all Robustness Checks
 - Absenteism.ipynb : Analysis for outcome job-effort proxied by absent days from work
 - Addpeople.ipynb : Creates .csv with 2006 controls - **to be run before main notebook**
 - AddpeopleERI.ipnyb : Creates .csv with 2006 controls and calculates Effort-Reward-Ration for each individual (Robustness Check)
